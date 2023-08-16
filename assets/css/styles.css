@@ -1416,7 +1416,7 @@ body.dark-theme{
     padding: 6.5rem 1.5rem 3.5rem;
     border: 6px solid var(--black-color);
   }
-  .services__icon{
+  .services__icon i{
     font-size: 3rem;
   }
   .services__box{
